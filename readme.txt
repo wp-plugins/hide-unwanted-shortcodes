@@ -43,7 +43,7 @@ For more information, please visit [Denzel Designs](http://denzeldesigns.com)
    
 == How to use this plugin ? ==
 
-   1. After installation and activation, please go to Settings Menu and find item "Hide Unwanted Shortcodes".
+   1. After installation and activation, please go to Settings Menu and find item Hide Unwanted Shortcodes.
    2. Click on it and you will see the textarea for filling in your unwanted shortcodes tag.
    3. Please follow additional instructions there.
 
@@ -53,7 +53,7 @@ There is no FAQ at the moment. Please visit [Denzel Designs](http://denzeldesign
 
 == Screenshots ==
 
-screenshot-1.(png|jpg|jpeg|gif).
+1. Plugin Settings Page
 
 == Upgrade Notice ==
 
