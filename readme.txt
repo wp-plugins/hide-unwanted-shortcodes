@@ -4,7 +4,7 @@ Donate link: http://denzeldesigns.com
 Author link: http://denzeldesigns.com
 Tags: shortcodes, shortcode, remove shortcodes, remove shortcode, hide unwanted shortcodes, hide unwanted shortcode, hide shortcodes, hide shortcode, delete shortcode, delete shortcodes
 Requires at least: 3.0
-Tested up to: 3.2
+Tested up to: 3.3
 Stable tag: 1.0
 
 A plugin to prevent unwanted shortcodes from showing on blog.
@@ -18,7 +18,7 @@ Now you can use this plugin to prevent them from showing up on Blog. This plugin
 You can easily add and save the unwanted shortcode tag name into the plugin setting page, and the plugin will
 do the rest. There is no need to write any functions or database queries, the plugin will hide them base on shortcode tag saved.
 
-For more information, please visit [Denzel Designs](http://denzeldesigns.com)
+For more information, please visit [denzelchia.com](http://denzelchia.com)
 
 == Changelog ==
 
@@ -49,7 +49,7 @@ For more information, please visit [Denzel Designs](http://denzeldesigns.com)
 
 == Frequently Asked Questions ==
 
-There is no FAQ at the moment. Please visit [Denzel Designs](http://denzeldesigns.com) for more information.
+There is no FAQ at the moment. Please visit [denzelchia.com](http://denzelchia.com) for more information.
 
 == Screenshots ==
 
