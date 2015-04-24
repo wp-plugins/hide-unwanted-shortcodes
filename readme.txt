@@ -4,7 +4,7 @@ Donate link: http://denzeldesigns.com
 Author link: http://denzeldesigns.com
 Tags: shortcodes, shortcode, remove shortcodes, remove shortcode, hide unwanted shortcodes, hide unwanted shortcode, hide shortcodes, hide shortcode, delete shortcode, delete shortcodes
 Requires at least: 3.0
-Tested up to: 3.5.1
+Tested up to: 4.2
 Stable tag: 1.0
 
 A plugin to prevent unwanted shortcodes from showing on blog.
