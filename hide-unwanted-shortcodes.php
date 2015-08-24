@@ -2,7 +2,7 @@
 /*
 Plugin Name: Hide Unwanted Shortcodes
 Plugin URI: http://denzeldesigns.com
-Version: 1.0
+Version: 1.1
 Description: A plugin to prevent unwanted shortcodes from showing on blog. This plugin does not remove shortcodes from Post Editor or Database, it merely hides it from public view.
 Author: Denzel Chia
 Author URI: http://denzeldesigns.com/
@@ -10,7 +10,7 @@ Author URI: http://denzeldesigns.com/
 
 //Create empty shortcodes class.
 class hus_shortcode{
-         function hus_shortcode($tag){
+         function __construct($tag){
          $option = get_option('hus_options');
          $raw_shortcode_string = $option['shortcode_tags'];
          //activate add_shortcode only if option has values.
@@ -30,7 +30,7 @@ $raw_shortcode_string = $option['shortcode_tags'];
 $shortcode_array = explode(",",$raw_shortcode_string);
 if(!empty($shortcode_array)){
 		foreach($shortcode_array as $s){
-			new hus_shortcode($s);
+			$o = new hus_shortcode($s);
 		}
 	}
 }
